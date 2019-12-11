@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreePeaksSolve", "ThreePeaksSolve\ThreePeaksSolve.csproj", "{DC82F316-980D-47C3-B995-43E9CEB0A87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC82F316-980D-47C3-B995-43E9CEB0A87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC82F316-980D-47C3-B995-43E9CEB0A87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC82F316-980D-47C3-B995-43E9CEB0A87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC82F316-980D-47C3-B995-43E9CEB0A87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111A93A9-BBD9-499E-A9BD-B4EEDADCF1D2}
+	EndGlobalSection
+EndGlobal
